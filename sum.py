@@ -1,2 +1,2 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+def twoSum(a: int, b: int) -> int:
+    
